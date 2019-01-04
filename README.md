@@ -24,7 +24,10 @@ In this project, you will learn about:
 ## Links and Resources
 
 https://www.investopedia.com/ask/answers/what-is-arbitrage/ 
+
 https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it 
+
 https://docs.python.org/2/howto/urllib2.html
+
 https://www.finder.com/cryptocurrency-arbitrage
 
